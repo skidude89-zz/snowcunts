@@ -415,7 +415,7 @@ ol.type li a:hover {
 /* Team Section */
 #team {
 	color: #fff;
-	background: #444 url(../img/team-bg.jpg) center top no-repeat fixed;
+	background: #444 url(../img/team-bg1.jpg) center top no-repeat fixed;
 	background-size: cover;
 }
 #team .overlay {
