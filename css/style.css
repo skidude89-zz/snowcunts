@@ -634,7 +634,9 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#779936', end
 }		
 								
 .fa-jackson {
-					color:#234b8d;
+					background: -webkit-radial-gradient(Circle, #9F1D37 70%, #0D0707 30%);				
+					-webkit-background-clip: text;
+					-webkit-text-fill-color: transparent;	
 					font-size: xx-large;
 }
 
