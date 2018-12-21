@@ -623,45 +623,55 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#779936', end
 
 .fa-killington {
 					color:#90ce3f;
-					}
+					font-size: -webkit-xxx-large;
+}
 
 .fa-sugarbush {
 					color:#234b8d;
-					}		
+					font-size: -webkit-xxx-large;
+}		
 								
 .fa-jackson {
 					color:#234b8d;
-				}
+					font-size: -webkit-xxx-large;
+}
+
 
 .fa-bird {
 					background: -webkit-linear-gradient(left, #009AD8 50%, #5AAD41 50%);
 					-webkit-background-clip: text;
 					-webkit-text-fill-color: transparent;
-			 }
+					font-size: -webkit-xxx-large;
+}
 
 .fa-taos {
 					background: -webkit-radial-gradient(Circle, #28AFE6, #FFFEFF);
 					-webkit-background-clip: text;
 					-webkit-text-fill-color: transparent;
-			}							 																					
+					font-size: -webkit-xxx-large;
+}							 																					
 
 .fa-sunshine {
 					background: -webkit-linear-gradient(top right, #C2DBEB, #416BA4);
 					-webkit-background-clip: text;
 					-webkit-text-fill-color: transparent;
-				}
+					font-size: -webkit-xxx-large;
+}
 
 .fa-ll {
 					background: -webkit-linear-gradient(left, #D4283E, #015593, #D4283E);
 					-webkit-background-clip: text;
 					-webkit-text-fill-color: transparent;
+					font-size: -webkit-xxx-large;
 			}
 
 .fa-rev {
 					color:#3F96B4;
-			}  																					
+					font-size: -webkit-xxx-large;
+}  																					
 
 .fa-stowe	{
 					color:#FF1E18;
-				}       		
+					font-size: -webkit-xxx-large;
+}       		
 
