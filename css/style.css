@@ -620,3 +620,48 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#779936', end
 #footer a:hover {
 	color: #333;
 }
+
+.fa-killington {
+					color:#90ce3f;
+					}
+
+.fa-sugarbush {
+					color:#234b8d;
+					}		
+								
+.fa-jackson {
+					color:#234b8d;
+				}
+
+.fa-bird {
+					background: -webkit-linear-gradient(left, #009AD8 50%, #5AAD41 50%);
+					-webkit-background-clip: text;
+					-webkit-text-fill-color: transparent;
+			 }
+
+.fa-taos {
+					background: -webkit-radial-gradient(Circle, #28AFE6, #FFFEFF);
+					-webkit-background-clip: text;
+					-webkit-text-fill-color: transparent;
+			}							 																					
+
+.fa-sunshine {
+					background: -webkit-linear-gradient(top right, #C2DBEB, #416BA4);
+					-webkit-background-clip: text;
+					-webkit-text-fill-color: transparent;
+				}
+
+.fa-ll {
+					background: -webkit-linear-gradient(left, #D4283E, #015593, #D4283E);
+					-webkit-background-clip: text;
+					-webkit-text-fill-color: transparent;
+			}
+
+.fa-rev {
+					color:#3F96B4;
+			}  																					
+
+.fa-stowe	{
+					color:#FF1E18;
+				}       		
+
