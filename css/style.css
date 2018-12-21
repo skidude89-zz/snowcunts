@@ -656,7 +656,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#779936', end
 }							 																					
 
 .fa-sunshine {
-					background: -webkit-linear-gradient(top right, #FDF100 30%, #416BA4 70%);
+					background: -webkit-linear-gradient(top right, #FDF100 30%, #416BA4 50%);
 					-webkit-background-clip: text;
 					-webkit-text-fill-color: transparent;
 					font-size: xx-large;
